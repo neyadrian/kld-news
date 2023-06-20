@@ -1,0 +1,1074 @@
+.homofobia-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.homofobia-homofobia {
+  width: 100%;
+  height: 4721px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.homofobia-group11 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 185px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.bloco01 {
+  position: absolute;
+  width: 100%;
+  height: 116px;
+  left: 0px;
+  top: 0px;
+  background: #22517b;
+  border: 1px solid #22517b;
+}
+
+.bloco02 {
+  position: absolute;
+  width: 89px;
+  height: 78px;
+  left: 91px;
+  top: 19px;
+  background: #ffffff;
+}
+
+.bloco03 {
+  position: absolute;
+  width: 89px;
+  height: 78px;
+  left: 196px;
+  top: 19px;
+  background: #ffffff;
+}
+
+.bloco04 {
+  position: absolute;
+  width: 89px;
+  height: 78px;
+  left: 301px;
+  top: 19px;
+  background: #ffffff;
+}
+
+.k {
+  position: absolute;
+  width: 89px;
+  height: 79px;
+  left: 110px;
+  top: 18px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 50px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #22517b;
+}
+
+.l {
+  position: absolute;
+  width: 89px;
+  height: 79px;
+  left: 220px;
+  top: 19px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 50px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #22517b;
+}
+
+.d {
+  position: absolute;
+  width: 89px;
+  height: 79px;
+  left: 320px;
+  top: 19px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 50px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #22517b;
+}
+
+.news {
+  position: absolute;
+  width: 204px;
+  height: 40px;
+  left: 406px;
+  top: 54px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 50px;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+}
+
+.bloco05 {
+  position: absolute;
+  width: 502px;
+  height: 9px;
+  left: 91px;
+  top: 107px;
+  background: #ffffff;
+}
+.machismo-indicarrea {
+  top: 176px;
+  left: 254px;
+  width: 129px;
+  height: 9px;
+  position: absolute;
+}
+.cabecalho {
+  position: absolute;
+  width: 100%;
+  height: 69px;
+  left: 0px;
+  top: 116px;
+  background: #ffffff;
+  border: 2.5px solid rgba(34, 81, 123, 0.78);
+}
+
+.machismo {
+  position: absolute;
+  width: 79px;
+  height: 39px;
+  left: 86px;
+  top: 127px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 50px;
+  display: flex;
+  text-decoration: none;
+  align-items: center;
+  text-align: center;
+  color: #010937;
+}
+
+.homofobia {
+  position: absolute;
+  width: 130px;
+  height: 39px;
+  left: 255px;
+  top: 127px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 50px;
+  display: flex;
+  text-decoration: none;
+  align-items: center;
+  text-align: center;
+  color: #010937;
+}
+
+.intolerancia {
+  position: absolute;
+  width: 264px;
+  height: 39px;
+  left: 425px;
+  top: 127px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 50px;
+  display: flex;
+  text-decoration: none;
+  align-items: center;
+  text-align: center;
+  color: #010937;
+}
+
+.desigualdade {
+  position: absolute;
+  width: 240px;
+  height: 39px;
+  left: 703px;
+  top: 127px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 50px;
+  display: flex;
+  text-decoration: none;  
+  align-items: center;
+  text-align: center;
+  color: #010937;
+}
+
+.homofobia-text {
+  top: 18px;
+  left: 91px;
+  color: rgba(34, 81, 123, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-text01 {
+  top: 19px;
+  left: 196px;
+  color: rgba(34, 81, 123, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-text02 {
+  top: 19px;
+  left: 301px;
+  color: rgba(34, 81, 123, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-logo {
+  top: 107px;
+  left: 91px;
+  width: 502px;
+  height: 9px;
+  position: absolute;
+}
+.homofobia-text03 {
+  top: 54px;
+  left: 406px;
+  color: rgba(255, 255, 255, 1);
+  width: 204px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-text05 {
+  top: 121px;
+  left: 91px;
+  color: rgba(1, 9, 55, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-text07 {
+  top: 121px;
+  left: 456px;
+  color: rgba(1, 9, 55, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-text09 {
+  top: 121px;
+  left: 759px;
+  color: rgba(1, 9, 55, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-text11 {
+  top: 127px;
+  left: 265px;
+  color: rgba(1, 9, 55, 1);
+  width: 130px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-indicarrea {
+  top: 176px;
+  left: 267px;
+  width: 130px;
+  height: 9px;
+  position: absolute;
+}
+.homofobia-line1 {
+  top: 864px;
+  left: 70px;
+  width: 1300px;
+  height: 1px;
+  position: absolute;
+}
+.homofobia-group6 {
+  top: 876px;
+  left: 684px;
+  width: 737px;
+  height: 563px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homofobia-text13 {
+  color: rgba(1, 9, 55, 1);
+  width: 737px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Arya;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-text15 {
+  top: 113px;
+  color: rgba(1, 9, 55, 1);
+  width: 704px;
+  height: auto;
+  position: absolute;
+  font-size: 27px;
+  font-style: Bold;
+  text-align: justified;
+  font-family: Arya;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-rectangle1 {
+  top: 927px;
+  left: 109px;
+  width: 522px;
+  height: 415px;
+  position: absolute;
+  border: 0;
+  border-radius: 30px;
+}
+.homofobia-group1 {
+  top: 583px;
+  left: 863px;
+  width: 440px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homofobia-text17 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Arya;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.homofobia-rectangle7 {
+  top: 237px;
+  left: 857px;
+  width: 453px;
+  height: 360px;
+  position: absolute;
+  border-radius: 30px;
+}
+.homofobia-group2 {
+  top: 216px;
+  left: 86px;
+  width: 736px;
+  height: 433px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homofobia-text19 {
+  color: rgba(1, 9, 55, 1);
+  width: 736px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Arya;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-text21 {
+  top: 100px;
+  left: 5px;
+  color: rgba(1, 9, 55, 1);
+  width: 699px;
+  height: auto;
+  position: absolute;
+  font-size: 27px;
+  font-style: Bold;
+  text-align: justified;
+  font-family: Arya;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-text23 {
+  top: 663px;
+  left: 91px;
+  color: rgba(1, 9, 55, 1);
+  width: 1300px;
+  height: auto;
+  position: absolute;
+  font-size: 27px;
+  font-style: Bold;
+  text-align: justified;
+  font-family: Arya;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-group9 {
+  top: 2075px;
+  left: 102px;
+  width: 1279px;
+  height: 460px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homofobia-text25 {
+  color: rgba(1, 9, 55, 1);
+  width: 737px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Arya;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-text27 {
+  top: 123px;
+  color: rgba(1, 9, 55, 1);
+  width: 704px;
+  height: auto;
+  position: absolute;
+  font-size: 27px;
+  font-style: Bold;
+  text-align: justified;
+  font-family: Arya;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-rectangle71 {
+  top: 0px;
+  left: 757px;
+  width: 522px;
+  height: 415px;
+  position: absolute;
+  border-radius: 30px;
+}
+.homofobia-text29 {
+  top: 2490px;
+  left: 900px;
+  color: rgba(0, 0, 0, 1);
+  width: 440px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Arya;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.homofobia-text31 {
+  top: 2546px;
+  left: 102px;
+  color: rgba(1, 9, 55, 1);
+  width: 1172px;
+  height: auto;
+  position: absolute;
+  font-size: 27px;
+  font-style: Bold;
+  text-align: justified;
+  font-family: Arya;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-text33 {
+  top: 2769px;
+  left: 102px;
+  color: rgba(1, 9, 55, 1);
+  width: 1221px;
+  height: auto;
+  position: absolute;
+  font-size: 27px;
+  font-style: Bold;
+  text-align: justified;
+  font-family: Arya;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-text35 {
+  top: 3145px;
+  left: 102px;
+  color: rgba(1, 9, 55, 1);
+  width: 1227px;
+  height: auto;
+  position: absolute;
+  font-size: 27px;
+  font-style: Bold;
+  text-align: justified;
+  font-family: Arya;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-rectangle22 {
+  top: 4121px;
+  left: 0px;
+  width: 100%;
+  height: 600px;
+  position: absolute;
+}
+.homofobia-rectangle23 {
+  top: 4651px;
+  left: 0px;
+  width: 100%;
+  height: 70px;
+  position: absolute;
+}
+
+.homofobia-text42 {
+  top: 4146px;
+  left: 75px;
+  color: rgba(34, 81, 123, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-text43 {
+  top: 4147px;
+  left: 180px;
+  color: rgba(34, 81, 123, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-text44 {
+  top: 4147px;
+  left: 285px;
+  color: rgba(34, 81, 123, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-logo1 {
+  top: 4235px;
+  left: 75px;
+  width: 502px;
+  height: 9px;
+  position: absolute;
+}
+.homofobia-text45 {
+  top: 4177px;
+  left: 390px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-text47 {
+  top: 4660px;
+  left: 619px;
+  color: rgba(255, 255, 255, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Nunito;
+  font-weight: 500;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-text49 {
+  top: 4286px;
+  left: 91px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25.899999618530273px;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-text51 {
+  top: 4286px;
+  left: 659px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25.899999618530273px;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-text53 {
+  top: 4286px;
+  left: 1150px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25.899999618530273px;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-text55 {
+  top: 4337px;
+  left: 659px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: ExtraLight;
+  text-align: justified;
+  font-family: Poppins;
+  font-weight: 200;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-rectangle14 {
+  top: 1661px;
+  left: 0px;
+  width: 100%;
+  height: 288px;
+  position: absolute;
+}
+.homofobia-frame2 {
+  top: 1691px;
+  left: 0px;
+  width: 100%;
+  height: 228px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homofobia-rectangle6 {
+  top: 0px;
+  left: 904px;
+  width: 330px;
+  height: 228px;
+  position: absolute;
+  border-color: rgba(34, 81, 123, 0.5);
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 36px;
+}
+.homofobia-rectangle61 {
+  top: 0px;
+  left: 191px;
+  width: 330px;
+  height: 228px;
+  position: absolute;
+  border-color: rgba(34, 80, 123, 0.5);
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 36px;
+}
+.homofobia-rectangle5 {
+  top: 0px;
+  left: 1616px;
+  width: 318px;
+  height: 228px;
+  position: absolute;
+  border-color: rgba(34, 81, 123, 0.5);
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 36px;
+}
+.homofobia-rectangle4 {
+  top: 0px;
+  left: 1260px;
+  width: 330px;
+  height: 228px;
+  position: absolute;
+  border-color: rgba(34, 81, 123, 0.5);
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 36px;
+}
+.homofobia-rectangle3 {
+  top: 0px;
+  left: 547px;
+  width: 331px;
+  height: 228px;
+  position: absolute;
+  border-color: rgba(34, 80, 123, 0.5);
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 36px;
+}
+.homofobia-machismo2 {
+  top: 0px;
+  left: -165px;
+  width: 330px;
+  height: 228px;
+  position: absolute;
+  border-color: rgba(34, 81, 123, 0.5);
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 36px;
+}
+.homofobia-image1 {
+  top: 0px;
+  left: 1960px;
+  width: 330px;
+  height: 228px;
+  position: absolute;
+  border-color: rgba(34, 81, 123, 0.5);
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 36px;
+}
+.homofobia-rectangle15 {
+  top: 1661px;
+  left: 0px;
+  width: 100%;
+  height: 288px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(78, 124, 165, 1);
+  border-style: solid;
+  border-width: 2.5px;
+}
+.homofobia-ellipse3 {
+  top: 1775px;
+  left: 1350px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(34, 81, 123, 0.4000000059604645);
+  border-style: solid;
+  border-width: 1.5px;
+}
+.homofobia-ellipse4 {
+  top: 1775px;
+  left: 30px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(34, 81, 123, 0.4000000059604645);
+  border-style: solid;
+  border-width: 1.5px;
+}
+.homofobia-arrow3 {
+  top: 1805px;
+  left: 1395px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.homofobia-arrow4 {
+  top: 1805px;
+  left: 75px;
+  width: 30px;
+  height: 1px;
+  position: absolute;
+}
+.homofobia-text64 {
+  top: 4346px;
+  left: 91px;
+  color: rgba(255, 255, 255, 1);
+  width: 391px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: ExtraLight;
+  text-align: justified;
+  font-family: Poppins;
+  font-weight: 200;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homofobia-text71 {
+  top: 1328px;
+  left: 71px;
+  color: rgba(0, 0, 0, 1);
+  width: 599px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Arya;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.bloco02_1 {
+  position: absolute;
+  width: 89px;
+  height: 78px;
+  left: 91px;
+  top: 4151px;
+  background: #ffffff;
+}
+
+.bloco03_1 {
+  position: absolute;
+  width: 89px;
+  height: 78px;
+  left: 196px;
+  top: 4151px;
+  background: #ffffff;
+}
+
+.bloco04_1 {
+  position: absolute;
+  width: 89px;
+  height: 78px;
+  left: 301px;
+  top: 4151px;
+  background: #ffffff;
+}
+
+.k1 {
+  position: absolute;
+  width: 89px;
+  height: 79px;
+  left: 110px;
+  top: 4151px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 50px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #22517b;
+}
+
+.l1 {
+  position: absolute;
+  width: 89px;
+  height: 79px;
+  left: 220px;
+  top: 4151px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 50px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #22517b;
+}
+
+.d1 {
+  position: absolute;
+  width: 89px;
+  height: 79px;
+  left: 320px;
+  top: 4151px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 50px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #22517b;
+}
+
+.news1 {
+  position: absolute;
+  width: 204px;
+  height: 40px;
+  left: 406px;
+  top: 4184px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 50px;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+}
+
+.bloco05_1 {
+  position: absolute;
+  width: 502px;
+  height: 9px;
+  left: 91px;
+  top: 4241px;
+  background: #ffffff;
+}
+.redes-sociais{
+  position: absolute;
+  top: 4337px;
+  left: 1150px;
+}
+.tik-tok{
+  width: 46px;
+}
+.instagram{
+  width: 46px;
+}
+.twitter{
+  width: 46px;
+}
